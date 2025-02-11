@@ -43,15 +43,6 @@ Key data transformations and calculations were performed using Power BI's DAX an
 ### Scan the QR Code to Access the PDF
 ![QR Code for PDF](https://github.com/vanniee/Financial-Dashboard/blob/main/Financial%20Dashboard%20QRCode.jpg)
 
-<!-- !
-<p align="center">
-📌 **💻 View Interactive Report** <br/>
-Scan to View the Project  
-![QR Code](github_qr.png) 
-
-<img src="Hr_Dashboard.pdf" height="80%" width="80%" alt="Power BI Dashboard"/> 
-</p>  --!>
-
 
 Dashboard Overview: <br/>
 <img src="https://i.imgur.com/E831q7p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -59,7 +50,6 @@ Dashboard Overview: <br/>
 <br />
 
 ---
-
 
 <h2>🚀 How to Use This Project</h2>  
 1️⃣ **Download the .pbix file** from this repository.  
