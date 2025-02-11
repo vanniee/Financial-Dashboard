@@ -38,16 +38,19 @@ Key data transformations and calculations were performed using Power BI's DAX an
 
 <h2>📊 Dashboard creation walk-through</h2>  
 
-[Please click here to view interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGM3YTgyZmItMzk5Ni00N2QxLWE3ZmUtNjI4ODMxNWVjMWEzIiwidCI6IjgwZGY3ODU4LWVlMGQtNDljOS04YTE4LWU4ODU0M2QyNzE4YiJ9)
+### [Please click here to view interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGM3YTgyZmItMzk5Ni00N2QxLWE3ZmUtNjI4ODMxNWVjMWEzIiwidCI6IjgwZGY3ODU4LWVlMGQtNDljOS04YTE4LWU4ODU0M2QyNzE4YiJ9)
+### or 
+### Scan the QR Code to Access the PDF
+![QR Code for PDF](https://github.com/vanniee/Financial-Dashboard/blob/main/Financial%20Dashboard%20QRCode.jpg)
 
 <!-- !
 <p align="center">
 📌 **💻 View Interactive Report** <br/>
 Scan to View the Project  
-![QR Code](github_qr.png) --!>
+![QR Code](github_qr.png) 
 
 <img src="Hr_Dashboard.pdf" height="80%" width="80%" alt="Power BI Dashboard"/> 
-</p>  
+</p>  --!>
 
 
 Dashboard Overview: <br/>
