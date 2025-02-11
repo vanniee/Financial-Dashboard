@@ -37,8 +37,10 @@ Key data transformations and calculations were performed using Power BI's DAX an
 
 
 <h2>📊 Dashboard creation walk-through</h2>  
-<!-- ![Financial Dashboard](https://github.com/user-attachments/assets/b6c8d7ec-e211-4670-8bc3-008aea155ffe)
 
+[Please click here to view interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGM3YTgyZmItMzk5Ni00N2QxLWE3ZmUtNjI4ODMxNWVjMWEzIiwidCI6IjgwZGY3ODU4LWVlMGQtNDljOS04YTE4LWU4ODU0M2QyNzE4YiJ9)
+
+<!-- !
 <p align="center">
 📌 **💻 View Interactive Report** <br/>
 Scan to View the Project  
